@@ -53,7 +53,7 @@ You may use `pip install -r requirements.txt`. It will install the versions used
 
 ## Notes
 
-The setup for the project is optimized for windows and does not yet work for other platforms.
+The setup for the project is optimized for windows and VSC. It does not yet work for other platforms.
 
 The project does not yet support **emscripten**. 
 
@@ -63,7 +63,9 @@ The project does not yet support **emscripten**.
 - Support for emscripten via parameters.
 - Web Example
 - setting up conan profiles in relative path
+- Supporting easy debug functionality
 
+  
 ## Known Issues
 
 ### Compiling on Windows with MinGW
