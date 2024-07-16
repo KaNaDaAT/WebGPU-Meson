@@ -1,0 +1,2 @@
+option('arch', type: 'combo', choices: ['x86_64', 'arm', 'aarch64'], value: 'x86_64', description: 'Specifying the architecture')
+option('hostsystem', type: 'combo', choices: ['windows', 'linux', 'darwin', 'macos'], value: 'windows', description: 'Specifying the host system')

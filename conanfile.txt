@@ -1,0 +1,6 @@
+[requires]
+sdl/[~2]
+
+[generators]
+PkgConfigDeps
+MesonToolchain
