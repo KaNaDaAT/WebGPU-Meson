@@ -14,7 +14,7 @@ This repository serves as a simple test environment demonstrating how to set up 
 
 Ensure you have the following installed on your system:
 
-- [Conan2]([https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html](https://docs.conan.io/2/reference/commands/install.html))
+- [Conan2](https://docs.conan.io/2/reference/commands/install.html)
 - [Meson](https://mesonbuild.com/SimpleStart.html)
 - [Ninja](https://ninja-build.org/) (optional, but recommended for building)
 
